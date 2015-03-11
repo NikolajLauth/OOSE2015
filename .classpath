@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="OOSE2015-master/src"/>
+	<classpathentry kind="lib" path="OOSE2015-master/lib/ibxm.jar"/>
+	<classpathentry kind="lib" path="OOSE2015-master/lib/jinput.jar"/>
+	<classpathentry kind="lib" path="OOSE2015-master/lib/jogg-0.0.7.jar"/>
+	<classpathentry kind="lib" path="OOSE2015-master/lib/jorbis-0.0.15.jar"/>
+	<classpathentry kind="lib" path="OOSE2015-master/lib/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="OOSE2015-master/lib/lwjgl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="OOSE2015-master/OOSE2015-master/native/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="OOSE2015-master/lib/slick-examples.jar"/>
+	<classpathentry kind="lib" path="OOSE2015-master/lib/slick.jar"/>
+	<classpathentry kind="lib" path="OOSE2015-master/lib/tinylinepp.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
